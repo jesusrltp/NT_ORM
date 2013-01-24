@@ -1,0 +1,9 @@
+C:\Users\jrodriz\Documents\Visual Studio 2008\Projects\NT-ORM\NT-ORM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jrodriz\Documents\Visual Studio 2008\Projects\NT-ORM\NT-ORM\obj\Debug\NT_ORM.Resources.resources
+C:\Users\jrodriz\Documents\Visual Studio 2008\Projects\NT-ORM\NT-ORM\obj\Debug\NT-ORM.vbproj.GenerateResource.Cache
+C:\Users\jrodriz\Documents\Visual Studio 2008\Projects\NT-ORM\NT-ORM\bin\Debug\NT-ORM.dll
+C:\Users\jrodriz\Documents\Visual Studio 2008\Projects\NT-ORM\NT-ORM\bin\Debug\NT-ORM.pdb
+C:\Users\jrodriz\Documents\Visual Studio 2008\Projects\NT-ORM\NT-ORM\bin\Debug\NT-ORM.xml
+C:\Users\jrodriz\Documents\Visual Studio 2008\Projects\NT-ORM\NT-ORM\obj\Debug\NT-ORM.dll
+C:\Users\jrodriz\Documents\Visual Studio 2008\Projects\NT-ORM\NT-ORM\obj\Debug\NT-ORM.xml
+C:\Users\jrodriz\Documents\Visual Studio 2008\Projects\NT-ORM\NT-ORM\obj\Debug\NT-ORM.pdb
